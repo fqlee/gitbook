@@ -22,8 +22,9 @@
 
   2008年github网站上线，为开源项目提供免费git存储，jquery、php、ruby。
 
-* git
+*  原理图
   ![](/assets/graph_demo.png)
+
 * 
 * 
 
