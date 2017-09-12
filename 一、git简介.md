@@ -25,6 +25,4 @@
 * ## 原理图
   ![](/assets/graph_demo.png)    
 
-* 
-* 
 
