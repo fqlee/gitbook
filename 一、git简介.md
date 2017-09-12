@@ -14,4 +14,12 @@
 
 * ## git诞生
 
+  2002年前
+
+  Bitkeeper商业版版本控制系统
+
+  2005年Andrew试图破解
+
+  2008年github网站上线，为开源项目提供免费git存储，jquery、php、ruby。
+
 
